@@ -1,0 +1,62 @@
+# Node Modules
+node_modules
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Build files
+dist/
+build/
+
+# dotenv environment variable files
+.env
+
+# Visual Studio Code folder
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+*.swp
+*.swo
+
+# Testing
+coverage/
+.nyc_output/
+
+# Yarn
+yarn-error.log
+yarn.lock
+.pnp.*
+.pnp.js
+
+# Jest
+coverage/
+jest.config.js
+
+# Next.js
+.next/
+out/
+
+# Gatsby
+.cache/
+public/
